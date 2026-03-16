@@ -1,1 +1,1 @@
-# retencao_clientes_churn
+# Estratégias de Retenção de Clientes: Redução de Churn através de Data Analytics.
